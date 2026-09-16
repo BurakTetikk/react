@@ -1,0 +1,11 @@
+import React from 'react';
+
+const InlineStyle = () => {
+    return (<div>
+        <h1 style={{border: '1px solid orange', padding: '1rem', textAlign: 'center', borderRadius: '2rem'}}>Hello</h1>
+        <p style={{fontStyle: 'italic', fontSize: '1.3rem'}}><span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae blanditiis, debitis deserunt dolore error et libero quo sapiente. Ad blanditiis delectus dolorum expedita explicabo inventore vel? Aliquam asperiores iure sed!</span><span>Dolor expedita ipsum itaque nihil possimus! Alias, commodi, explicabo. Aliquam animi consequatur consequuntur corporis cum cumque dolores dolorum eius incidunt libero nesciunt nobis nostrum numquam odit quisquam, quod rerum vero?</span><span>Asperiores autem consequatur dolor facilis fugit hic id, impedit in itaque, magnam mollitia nulla officia pariatur quos recusandae sint tenetur voluptate. Debitis dolorem illum labore, magnam provident qui sequi vitae.</span><span>Animi, asperiores aspernatur nemo nesciunt quam quo similique. Amet aperiam architecto aut autem, doloribus dolorum earum et fugit harum ipsum nesciunt nobis nostrum possimus quae quasi quisquam reiciendis sapiente sequi.</span><span>Ad adipisci architecto, aspernatur consequuntur dolores eius exercitationem facere fuga inventore necessitatibus nihil, quam quibusdam sed sunt velit voluptas voluptates. Accusamus architecto aspernatur consectetur iste nobis officiis quibusdam quisquam temporibus.</span><span>A, accusantium aspernatur consequuntur dicta dignissimos laboriosam laudantium maxime molestias, mollitia nisi nulla quas repellendus sapiente similique voluptatem. Eligendi ex nemo non odio optio quaerat qui quis soluta sunt voluptas?</span><span>Alias distinctio impedit ipsa officia vero. Fugiat harum iste laboriosam. Accusamus commodi fugiat illum officia reprehenderit? Ad commodi, cumque deserunt dicta enim esse harum libero quaerat quis, veniam voluptate voluptatem!</span><span>A assumenda atque consectetur cumque dignissimos dolore doloremque doloribus earum est, excepturi facere in ipsum, magni modi molestias neque nobis rem reprehenderit rerum similique soluta tenetur ut veniam voluptas voluptate.</span>
+        </p>
+    </div>);
+};
+
+export default InlineStyle;

@@ -1,0 +1,10 @@
+.react-hooks h3 {
+    color: blue;
+    font-size: 1.2em;
+}
+
+.react-hooks li {
+    color: green;
+    font-weight: bold;
+    font-style: italic;
+}

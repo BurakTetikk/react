@@ -6,6 +6,12 @@ import Jsx1 from "./components/03-jsx/Jsx1";
 import Jsx2 from "./components/03-jsx/Jsx2";
 import Jsx3 from "./components/03-jsx/Jsx3";
 import JsxLoop from "./components/03-jsx/JsxLoop";
+import JsxMap from "./components/03-jsx/JsxMap";
+import InlineStyle from "./components/04-styles/InlineStyle";
+import InternalStyle from "./components/04-styles/InternalStyle";
+import ExternalStyle from "./components/04-styles/ExternalStyle";
+import SassStyle from "./components/04-styles/SassStyle";
+import Clock from "./components/05-clock/Clock";
 
 const App = () => {
     return (
@@ -23,7 +29,13 @@ const App = () => {
             {/*<Jsx1/>*/}
             {/*<Jsx2/>*/}
             {/*<Jsx3/>*/}
-            <JsxLoop/>
+            {/*<JsxLoop/>*/}
+            {/*<JsxMap/>*/}
+            {/*<InlineStyle/>*/}
+            {/*<InternalStyle/>*/}
+            {/*<ExternalStyle/>*/}
+            {/*<SassStyle/>*/}
+            <Clock/>
         </div>
     );
 };

@@ -1,6 +1,6 @@
 {
   "name": "react-app",
-  "version": "0.1.0",
+  "version": "0.1.0", 
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.2",
@@ -35,5 +35,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "sass": "^1.104.1"
   }
 }
