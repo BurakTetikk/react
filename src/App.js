@@ -1,9 +1,9 @@
 import React from 'react';
-import Greetings from "./components/06-props/Greetings";
-import Products from "./components/07-props/Products";
-import Image from "./components/08-img/Image";
-import Gallery from "./components/08-img/Gallery";
 import ProfileCard from "./components/09-profile-card/profile-card";
+import BootstrapStatic from "./components/10-bootstrap/BootstrapStatic";
+import BootstrapDynamic from "./components/10-bootstrap/bootstrap-dynamic";
+import Icons from "./components/11-icons/icons";
+import Events from "./components/12-events/events";
 
 const App = () => {
     return (
@@ -32,7 +32,11 @@ const App = () => {
             {/*<Products/>*/}
             {/*<Image/>*/}
             {/*<Gallery/>*/}
-            <ProfileCard/>
+            {/*<ProfileCard/>*/}
+            {/*<BootstrapStatic/>*/}
+            {/*<BootstrapDynamic/>*/}
+            {/*<Icons/>*/}
+            <Events/>
         </div>
     );
 };
