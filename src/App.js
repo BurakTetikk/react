@@ -5,6 +5,7 @@ import BootstrapDynamic from "./components/10-bootstrap/bootstrap-dynamic";
 import Icons from "./components/11-icons/icons";
 import Events from "./components/12-events/events";
 import Counter from "./components/13-useState/counter";
+import UseEffectHook from "./components/15-useEffect/useEffectHook";
 
 const App = () => {
     return (
@@ -38,7 +39,8 @@ const App = () => {
             {/*<BootstrapDynamic/>*/}
             {/*<Icons/>*/}
             {/*<Events/>*/}
-            <Counter/>
+            {/*<Counter/>*/}
+            <UseEffectHook/>
         </div>
     );
 };

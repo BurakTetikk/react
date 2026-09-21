@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "image": "photo-01.jpg",
+    "name": "Banu Korkut",
+    "age": 27
+  },
+  {
+    "id": 2,
+    "image": "photo-02.jpg",
+    "name": "Ahmet Yılmaz",
+    "age": 31
+  },
+  {
+    "id": 3,
+    "image": "photo-03.jpg",
+    "name": "Elif Demir",
+    "age": 24
+  },
+  {
+    "id": 4,
+    "image": "photo-04.jpg",
+    "name": "Mert Kaya",
+    "age": 29
+  },
+  {
+    "id": 5,
+    "image": "photo-05.jpg",
+    "name": "Zeynep Arslan",
+    "age": 26
+  },
+  {
+    "id": 6,
+    "image": "photo-06.jpg",
+    "name": "Can Özkan",
+    "age": 34
+  },
+  {
+    "id": 7,
+    "image": "photo-07.jpg",
+    "name": "Derya Şahin",
+    "age": 28
+  },
+  {
+    "id": 8,
+    "image": "photo-08.jpg",
+    "name": "Emre Aydın",
+    "age": 32
+  },
+  {
+    "id": 9,
+    "image": "photo-09.jpg",
+    "name": "İrem Çelik",
+    "age": 23
+  },
+  {
+    "id": 10,
+    "image": "photo-10.jpg",
+    "name": "Burak Yıldız",
+    "age": 30
+  },
+  {
+    "id": 11,
+    "image": "photo-11.jpg",
+    "name": "Selin Koç",
+    "age": 25
+  },
+  {
+    "id": 12,
+    "image": "photo-12.jpg",
+    "name": "Kerem Aksoy",
+    "age": 36
+  },
+  {
+    "id": 13,
+    "image": "photo-13.jpg",
+    "name": "Aslı Erdem",
+    "age": 27
+  },
+  {
+    "id": 14,
+    "image": "photo-14.jpg",
+    "name": "Oğuzhan Kurt",
+    "age": 33
+  },
+  {
+    "id": 15,
+    "image": "photo-15.jpg",
+    "name": "Ece Yalçın",
+    "age": 22
+  },
+  {
+    "id": 16,
+    "image": "photo-16.jpg",
+    "name": "Deniz Taş",
+    "age": 29
+  },
+  {
+    "id": 17,
+    "image": "photo-17.jpg",
+    "name": "Melis Öztürk",
+    "age": 26
+  },
+  {
+    "id": 18,
+    "image": "photo-18.jpg",
+    "name": "Tolga Keskin",
+    "age": 35
+  },
+  {
+    "id": 19,
+    "image": "photo-19.jpg",
+    "name": "Sude Karaca",
+    "age": 24
+  },
+  {
+    "id": 20,
+    "image": "photo-20.jpg",
+    "name": "Berk Çetin",
+    "age": 31
+  }
+]
