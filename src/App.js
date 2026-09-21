@@ -1,11 +1,5 @@
 import React from 'react';
-import ProfileCard from "./components/09-profile-card/profile-card";
-import BootstrapStatic from "./components/10-bootstrap/BootstrapStatic";
-import BootstrapDynamic from "./components/10-bootstrap/bootstrap-dynamic";
-import Icons from "./components/11-icons/icons";
-import Events from "./components/12-events/events";
-import Counter from "./components/13-useState/counter";
-import UseEffectHook from "./components/15-useEffect/useEffectHook";
+import CountriesAxios from "./components/17-api/countries-axios";
 
 const App = () => {
     return (
@@ -40,7 +34,9 @@ const App = () => {
             {/*<Icons/>*/}
             {/*<Events/>*/}
             {/*<Counter/>*/}
-            <UseEffectHook/>
+            {/*<UseEffectHook/>*/}
+            {/*<UserCards/>*/}
+            <CountriesAxios/>
         </div>
     );
 };
