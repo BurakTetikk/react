@@ -1,5 +1,9 @@
 import React from 'react';
 import CountriesAxios from "./components/17-api/countries-axios";
+import Form1 from "./components/19-forms/form1";
+import Form2 from "./components/19-forms/form2";
+import Form3 from "./components/19-forms/form3";
+import Form4 from "./components/19-forms/form4";
 
 const App = () => {
     return (
@@ -36,7 +40,11 @@ const App = () => {
             {/*<Counter/>*/}
             {/*<UseEffectHook/>*/}
             {/*<UserCards/>*/}
-            <CountriesAxios/>
+            {/*<CountriesAxios/>*/}
+            {/*<Form1/>*/}
+            {/*<Form2/>*/}
+            {/*<Form3/>*/}
+            <Form4/>
         </div>
     );
 };
