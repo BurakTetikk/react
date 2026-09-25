@@ -4,6 +4,7 @@ import Form1 from "./components/19-forms/form1";
 import Form2 from "./components/19-forms/form2";
 import Form3 from "./components/19-forms/form3";
 import Form4 from "./components/19-forms/form4";
+import Formik from "./components/19-forms/formik";
 
 const App = () => {
     return (
@@ -44,7 +45,8 @@ const App = () => {
             {/*<Form1/>*/}
             {/*<Form2/>*/}
             {/*<Form3/>*/}
-            <Form4/>
+            {/*<Form4/>*/}
+            <Formik/>
         </div>
     );
 };
