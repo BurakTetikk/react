@@ -1,0 +1,16 @@
+.topbar {
+  background-color: aquamarine;
+  padding: 1rem;
+
+  nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    > div {
+      display: flex;
+      align-items: center;
+      gap: 1rem;
+    }
+  }
+}

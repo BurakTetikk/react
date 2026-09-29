@@ -1,10 +1,13 @@
-import React from 'react';
+import React, {useContext} from 'react';
 import HelloReact from "../02-hello-react/HelloReact";
+import StoreContext from "../../store";
 
 const HelloWorld = () => {
+    const {counter, currencies} = useContext(StoreContext);
+
     return (
         <div>
-            Hello World!
+            Hello World! {counter}
             <HelloReact/>
         </div>
     );

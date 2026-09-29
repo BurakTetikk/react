@@ -7,6 +7,7 @@ const Menu = () => {
                 <ul>
                     <li><Link to="/hello-world">Hello World</Link></li>
                     <li><Link to="/hello-react">Hello React</Link></li>
+                    <li><Link to="/exchange">Exchange</Link></li>
                     <li>JSX</li>
                 </ul>
             </nav>
